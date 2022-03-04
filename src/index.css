@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Montserrat:ital,wght@0,200;0,300;0,500;1,400&display=swap");
+
+body {
+  font-family: "Montserrat", serif;
+  background-color: #111111;
+}
+.mapouter {
+  position: relative;
+  text-align: center;
+  height: 400px;
+  width: 700px;
+}
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  border-radius: 15px;
+  height: 400px;
+  width: 700px;
+}
+.coming-soon {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  width: 350px;
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "category": "carpinter",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de azoteas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "smithy",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de acero y hierro",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de hierro clasicas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas corredizas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion portones de hierro y diseño",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas corredizas",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "glass",
+    "services": [
+      {
+        "serviceName": "Fabricacion de ventanas con diseños personalizados",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "designer",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de azoteas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "clean",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de azoteas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "construc",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de azoteas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "furniture",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de azoteas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  },
+  {
+    "category": "pain",
+    "services": [
+      {
+        "serviceName": "Fabricacion de estructuras de azoteas",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion Puertas de Madera Con Diseños",
+        "img_service": "https://picsum.photos/200"
+      },
+      {
+        "serviceName": "Fabricacion de estructuras de madera estilo americano",
+        "img_service": "https://picsum.photos/200"
+      }
+    ]
+  }
+]
